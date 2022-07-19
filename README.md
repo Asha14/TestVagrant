@@ -20,14 +20,20 @@ execute below command
 this will execute the code
 
 2) Sencond way - Directly running from the testng.xml 
+
 Open the project in IntelliJ Idea or eclipse
+
 And run the testng.xml file inside src/test/resources folder
 
 3) Third way: Running from Jenkins
 create a new pipeline for Maven project
+
 mention the git hub repository link
+
 enter pom.xml  file 
+
 enter the command mvn clean install
+
 then Build Now
 
 
