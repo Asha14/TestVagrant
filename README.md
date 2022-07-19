@@ -2,6 +2,8 @@
 
 Project name: Sample
 
+> To run this you need to haev Maven, Java installed.
+
 How to run the project
 
 Clone it to local - git clone  and
