@@ -14,7 +14,7 @@ public class Baseclass {
  Response resp;
 	
 	@BeforeTest
-	public void uri_details()
+	public void get_Json_Response()
 	{
 		RestAssured.baseURI= r.getURL();
 		
